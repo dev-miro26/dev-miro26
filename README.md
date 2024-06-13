@@ -1,4 +1,4 @@
-![contributions](https://github.com/dev-miro26/dev-miro26/assets/121471669/778628c9-8561-4ab7-8b0f-a4690cd24bd5)
+
 # 👋 Hello I am Miro. 👋
 <h3 align="center"><img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/code.gif" height="20"/> My skill sets</h3>
 
@@ -52,7 +52,7 @@
     </tr>
   </table>
 </div>
-<a href=#><img src="contributions.svg"></a>
+![contributions](https://github.com/dev-miro26/dev-miro26/assets/121471669/778628c9-8561-4ab7-8b0f-a4690cd24bd5)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
