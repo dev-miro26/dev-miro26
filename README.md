@@ -52,7 +52,7 @@
     </tr>
   </table>
 </div>
-![contributions](https://github.com/dev-miro26/dev-miro26/assets/121471669/778628c9-8561-4ab7-8b0f-a4690cd24bd5)
+[contributions](https://github.com/dev-miro26/dev-miro26/assets/121471669/778628c9-8561-4ab7-8b0f-a4690cd24bd5)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
