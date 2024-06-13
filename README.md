@@ -52,7 +52,7 @@
     </tr>
   </table>
 </div>
-        ![contributions](https://github.com/dev-miro26/dev-miro26/assets/121471669/388b76b1-c876-4fa8-bb54-75a3ba92cf10)
+      <a href=#><img src="contributions.svg"></a>
 
 
 <p align="center">
