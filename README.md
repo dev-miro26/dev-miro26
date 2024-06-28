@@ -1,4 +1,4 @@
-
+   <a href=#><img src="banner.png"></a>
 <h3 align="center"><img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/code.gif" height="20"/> My skill sets</h3>
 
 <div align="center" style="witdh:100%"> 
