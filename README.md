@@ -20,7 +20,7 @@
 [![dev-miro26's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-miro26&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/dev-miro26/github-readme-activity-graph)
 <br/>
 
-<div>   
+<div width="100">   
    <img src="https://github-readme-stats-omega-six-40.vercel.app/api?username=dev-miro26&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-miro26&theme=radical&hide_border=false"/>
 </div>
